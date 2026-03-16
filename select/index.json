@@ -1,0 +1,32 @@
+{
+  "version": 1,
+  "base_track": "鴉と白鳥",
+  "base_artist": "amazarashi",
+  "createdAt": "2026-03-16T08:58:04.474326Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "鴉と白鳥",
+      "artist": "amazarashi",
+      "has_synced": true,
+      "path": "select/01_鴉と白鳥_amazarashi.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "鴉と白鳥 - karasu to hakuchou",
+      "artist": "amazarashi",
+      "has_synced": true,
+      "path": "select/02_鴉と白鳥_-_karasu_to_hakuchou_amazarashi.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "鴉と白鳥",
+      "artist": "amazarashi",
+      "has_synced": false,
+      "path": "select/pl_01_鴉と白鳥_amazarashi.txt"
+    }
+  ]
+}
